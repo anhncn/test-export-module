@@ -1,0 +1,17 @@
+{
+  "name": "nnanh-npm-vue2-ckeditor-test-exam",
+  "version": "1.0.0",
+  "description": "Tao 1 npm module test",
+  "main": "/build/ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nnanh",
+    "ckeditor",
+    "vue2"
+  ],
+  "author": "nnanh3",
+  "license": "ISC"
+}
